@@ -1,0 +1,53 @@
+p {
+  font-family: roboto;
+}
+
+.title {
+  font-weight: bold;
+  width: 300px;
+  font-size: 18px;
+  margin-bottom: 2px;
+  line-height: 24px;
+}
+
+.stats {
+  margin-top: 0px;
+  color: rgb(96, 96, 96);
+  font-size: 14px;
+}
+
+.checkmark {
+  color: rgb(96, 96, 96) ;
+  font-size: 14px;
+  margin-bottom: 0;
+}
+
+.describe {
+  color: rgb(96, 96, 96);
+  font-size: 14px;
+  width: 280px;
+  margin-top: 16px;
+  margin-bottom: 0px;
+}
+
+.shop_early {
+  margin-top: 100px;
+  background-color: rgb(227, 65, 64);
+  padding-top: 16px;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-bottom: 16px;
+  margin-left: 8px;
+  margin-right: 8px;
+  color: white;
+  text-align: center;
+  font-size: 14px;
+}
+
+.shop_now {
+  margin-top: 2px;
+}
+.shop_now:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}

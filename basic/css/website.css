@@ -1,0 +1,135 @@
+.amazon:hover{
+  color: orange;
+}
+.add-button {
+  background-color: rgb(255, 216, 20);
+  color: black;
+  border-radius: 50px;
+  border: none;
+  margin-top: 10px;
+  width: 100px;
+  height: 30px;
+  margin-right: 10px;
+  cursor: pointer;
+  transition: background-color 0.15s;
+}
+.add-button:hover {
+  background-color: rgb(203, 172, 14);
+  transition: opacity 0.15s;
+}
+.add-button:active {
+  opacity: 0.3;
+}
+.Nike {
+  font-weight: bold;
+  font-size: xx-large;
+}
+.in_stock {
+  color: rgb(0, 118, 0);
+  font-weight: bold;
+}
+.buy_now-button {
+  background-color: rgb(255, 164, 28);
+  border: none;
+  border-radius: 50px;
+  height: 30px;
+  width: 100px;
+  cursor: pointer;
+  transition: background-color 0.15s;
+}
+.buy_now-button:hover {
+  background-color: rgb(216, 138, 22);
+  transition: opacity 0.15s ;
+}
+.buy_now-button:active {
+  opacity: 0.3;
+}
+
+.nike-pic {
+  width: 150px;
+  height: 100px;
+  border-radius: 20px;
+  margin-right: 20px;
+}
+
+.nike-pic-one {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  object-position: center;
+  margin-right: 20px;
+}
+
+.nike-pic-two {
+  width: 100px;
+  height: 100px;
+  border-radius: 1000px;
+  object-fit: cover;
+  object-position: center;
+}
+
+.search-one {
+  border-radius: 5px;
+  font-size: 20px;
+  margin-bottom: 12px;
+}
+
+.search-two {
+  width: 500px;
+  height: 30px;
+  border:none;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3);
+  border-radius: 20px;
+}
+
+.email {
+  color: rgb(96, 96, 96);
+  font-size: 14px;
+  margin-bottom: 3px;
+}
+
+.box {
+  border-width: 1.7px;
+  border-radius: 3px;
+  width: 260px;
+}
+
+.by {
+  color: rgb(96, 96, 96);
+  font-size: 12px;
+}
+
+.agree {
+  width: 265px;
+  background-color: rgb(30, 105, 235);
+  color: white;
+  border: none;
+  border-radius: 30px;
+  height: 30px;
+  font-size: medium;
+}
+
+.nike-jpg {
+  vertical-align: middle;
+  width: 50px;
+  height: 50px;
+  border-radius: 360px;
+  margin-right: 10px;
+}
+
+.happening {
+  color: rgb(96, 96, 96);
+  font-size: medium;
+  margin-right: 100px;
+}
+
+.tweet-button {
+  background-color: rgb(14, 153, 227);
+  color: white;
+  border: none;
+  border-radius: 20px;
+  font-weight: bold;
+  height: 30px;
+  width: 55px;
+}
+
